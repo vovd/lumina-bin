@@ -6,7 +6,7 @@ Architecture: source amd64 all
 Version: 0.8.5.755-1
 Distribution: staging
 Urgency: medium
-Maintainer: Christopher Roy Bratusek <nano@jpberlin.de>
+Maintainer: Valentin OVD <vovd.tanglu@gmail.com>
 Changed-By: Valentin OVD <vovd.tanglu@gmail.com>
 Description:
  libluminautils-dbg - Debugging symbols for lumina desktop environment
@@ -28,53 +28,53 @@ Changes:
    * New upstream release
    * Debian package based upon the work of Christopher Roy Bratusek
 Checksums-Sha1:
- 828f5bb4ceb3cf464c9fa2c22294c5ca5911264a 1976 lumina-desktop_0.8.5.755-1.dsc
+ 86155bdf3f042dcb2242b7508c239870216cc080 1976 lumina-desktop_0.8.5.755-1.dsc
  d26a90a38d0b4dd5231caafa84ae7efc00153208 23290628 lumina-desktop_0.8.5.755.orig.tar.gz
- 22aa7f9acf98398b6ebd5278e467ee0f773c2104 6652 lumina-desktop_0.8.5.755-1.debian.tar.xz
- eb3b1500f214df01087fe0ffb3fa67b650f2badb 1112572 libluminautils-dbg_0.8.5.755-1_amd64.deb
- d08bcf3a52da0af0b1b9f409a00f46e8dc1160d8 10674 libluminautils-dev_0.8.5.755-1_amd64.deb
- 1063f18c3d49b64be4f4c2db26304b2856fa2bf2 112772 libluminautils1_0.8.5.755-1_amd64.deb
- 79ad3aa96f026df98660e250574ed452d090db5e 154726 lumina-config_0.8.5.755-1_amd64.deb
- 93e95fa61ffa733da3b76a0c80cbc675d4860094 2196848 lumina-data_0.8.5.755-1_all.deb
- bee3b37c0e3a589e0e54a563766f7c49905b0f25 1013756 lumina-desktop_0.8.5.755-1_amd64.deb
- 86ac64dcb5dfa5260548af0aab440e142f2ef2cd 37278 lumina-fileinfo_0.8.5.755-1_amd64.deb
- 6f463f154c844b9f2cb6d655f2fc58befbc39971 110198 lumina-fm_0.8.5.755-1_amd64.deb
- c79de599d0177c6d70c818107b3404ffb8ab5636 576084 lumina-info_0.8.5.755-1_amd64.deb
- 7bc41a43b341d92ab8876edad87a35de3cce243f 56062 lumina-open_0.8.5.755-1_amd64.deb
- 52b813330c6a19079fbd6b517dfe724a8d1ac9ba 19846 lumina-screenshot_0.8.5.755-1_amd64.deb
- e1b2d1c4aff4262edcf3b2254f9f27c4c8ae3cb7 35544 lumina-search_0.8.5.755-1_amd64.deb
- df1a417ee526073e5e042f36e2d855f991f8678b 24244 lumina-xconfig_0.8.5.755-1_amd64.deb
+ d27f6afaaf939089fa2447d7c309cf845192b082 6660 lumina-desktop_0.8.5.755-1.debian.tar.xz
+ fc49b9ec43529050dc3c8a2bffe12d98abcb0b9e 1112634 libluminautils-dbg_0.8.5.755-1_amd64.deb
+ cc8a377f39ca2556c12b1e9cafbb5a388b17f2f6 10706 libluminautils-dev_0.8.5.755-1_amd64.deb
+ 3442486fe2efec79033d72c9a9005b6366177add 113188 libluminautils1_0.8.5.755-1_amd64.deb
+ f9f9e4868a0be0bcc53a1f14efff254cd9a9fd23 154510 lumina-config_0.8.5.755-1_amd64.deb
+ d8dccf5fe15c2c889901b114e178209537d6d6d7 2196844 lumina-data_0.8.5.755-1_all.deb
+ e342c42a0dd980a03400aee26614fae7e7554790 1013562 lumina-desktop_0.8.5.755-1_amd64.deb
+ 87b7f8381b2bd219dffb50ca17505bc5ef048c30 37324 lumina-fileinfo_0.8.5.755-1_amd64.deb
+ 27ece4fdaa883e6c4d571b41c62a7d6f3e0f90f2 110038 lumina-fm_0.8.5.755-1_amd64.deb
+ 2d2a12d86ef3d70e6ffd86b6089c82826a65ed5c 576114 lumina-info_0.8.5.755-1_amd64.deb
+ c8f7689b7e6517d9480427aa16cc9c0d498f19c4 56122 lumina-open_0.8.5.755-1_amd64.deb
+ 10febdf5d155b3a93d28c7ac78f1eb85417f555a 19840 lumina-screenshot_0.8.5.755-1_amd64.deb
+ a5aab5e97c6dce40e62a356c02471e291295c8d2 35686 lumina-search_0.8.5.755-1_amd64.deb
+ 6d1b569ad44d0596a4a6068fa15f6226d2aa5031 24236 lumina-xconfig_0.8.5.755-1_amd64.deb
 Checksums-Sha256:
- dc9557dcb7a03e69049c533e1bc33a72085850ab612db60a0a48e1345132ab04 1976 lumina-desktop_0.8.5.755-1.dsc
+ 6139f67c3a67b2d4d40ffeda9651af3a0d4a7e1a9370f3f7d5155411dcbb70c2 1976 lumina-desktop_0.8.5.755-1.dsc
  6bce3d75378df8eb1b3d0c83611e9f5bbdfc5ddda49a6d73ab54c14c16cbe673 23290628 lumina-desktop_0.8.5.755.orig.tar.gz
- 41f86ed5a3f07b28aba8646b012a122178e743ccbdb2d0eabbb695c8d75a62a7 6652 lumina-desktop_0.8.5.755-1.debian.tar.xz
- 103662d2abbace7ce5d9df5b352618831da868c1ab52ef940ba2dde33679555b 1112572 libluminautils-dbg_0.8.5.755-1_amd64.deb
- 9db75ba5cec25c35960ead2db351759327ee90074ab34b6642b653ec41a3a4da 10674 libluminautils-dev_0.8.5.755-1_amd64.deb
- f5e6bb227f60ab65d1ede0f8ec0fe3fe1c0cebae2a4d42b054a85ee6edfb7ffb 112772 libluminautils1_0.8.5.755-1_amd64.deb
- 7adad90045081de2c5bf3280f65de6a67faee81679c4d20545dfae98f53d6f77 154726 lumina-config_0.8.5.755-1_amd64.deb
- b4a0297d7d7c4d061e02355d0391cc66d4e34c3cd63ad4d4653a2f28ba07e4a4 2196848 lumina-data_0.8.5.755-1_all.deb
- 201e1d55a23d7764720c032209ce00075cf690edaa65b0968760f0403fe76fe3 1013756 lumina-desktop_0.8.5.755-1_amd64.deb
- 3903af19c2d882402d495b866ad2d9609a9d2dd5dfb189988b0b30d68537888b 37278 lumina-fileinfo_0.8.5.755-1_amd64.deb
- 2026320bfac70a9f4a6a5197db50975b7af6faf0c0fbaa2a89264103b23b39f8 110198 lumina-fm_0.8.5.755-1_amd64.deb
- 7f31a05a2370ed2bbdefa901b50191fd5fef0309b07ff4f16434bc62f0869c9d 576084 lumina-info_0.8.5.755-1_amd64.deb
- 919d7b152350a1df7f07d55fb94e5b74f9d7a7cab94d9c50350cf6169433a2a1 56062 lumina-open_0.8.5.755-1_amd64.deb
- 8a1163e6e7dcb82d5189bc316cc75c995f6f57faa10c35c256379d940a2c2c22 19846 lumina-screenshot_0.8.5.755-1_amd64.deb
- 69a32a3fc2b266f15820bbdf3cc0e04696547c8d0c8d38229625f6cb3a0c5679 35544 lumina-search_0.8.5.755-1_amd64.deb
- cdbe51792058607351ddd0fa9bac804adcbc183b280cb67d390a604289c8ab14 24244 lumina-xconfig_0.8.5.755-1_amd64.deb
+ 73e4685c893dd14578045a1006b9d19082267951a8cf1bf2e049d396e700c0a8 6660 lumina-desktop_0.8.5.755-1.debian.tar.xz
+ c7af7195ee66f04f7578fcc4a6061f3bc5283fdc45b6325a6cd79371b50e9dee 1112634 libluminautils-dbg_0.8.5.755-1_amd64.deb
+ 04753664209b1ff13f4e0f680ee8b9efe7ea28284eca433be2628b6991199f12 10706 libluminautils-dev_0.8.5.755-1_amd64.deb
+ e165e27adad20b29c764987f34ed05cbd9e3fafc9311f5398479ffb7b1789fa4 113188 libluminautils1_0.8.5.755-1_amd64.deb
+ ec45150fb4a142dd5e53ff05c3d40678a737d46d270846492582f69459ef2bfd 154510 lumina-config_0.8.5.755-1_amd64.deb
+ 0fa9447c88a82660ec2bfc376290b092bea6eeb19e6f35d64f2e846b0b245d9f 2196844 lumina-data_0.8.5.755-1_all.deb
+ e4f6a42d73e020abebc67b4bc9f219320cb4172c30f91c5ffd4c56af05fdbc8f 1013562 lumina-desktop_0.8.5.755-1_amd64.deb
+ a6c77368af7e9057d5c53d873646edb354bc34206c9eb87ae90da4733d2885fa 37324 lumina-fileinfo_0.8.5.755-1_amd64.deb
+ 8073f2f9f48222bab4a3079b402142320d2c61db4d4a8c35b0d6417e1453c663 110038 lumina-fm_0.8.5.755-1_amd64.deb
+ 88ef7782f5c35b2c060eb5f16b711b0273512102b09c7973cdd5dbb289b14b54 576114 lumina-info_0.8.5.755-1_amd64.deb
+ 7c9da7293b17542629e1c13dfc5f4bf66d3c9bec58079c3454a752f6a5ca8623 56122 lumina-open_0.8.5.755-1_amd64.deb
+ 62a200ee4536e9d97446e282f902b9f719cac42ba412d2c74749d86d6bb4caef 19840 lumina-screenshot_0.8.5.755-1_amd64.deb
+ e7c892c9a192e04dbc975c15d1fadc00c6d8ad9cde3117356329f6b012e7f555 35686 lumina-search_0.8.5.755-1_amd64.deb
+ 8e506a620bca0f0863f6fb95a87c9697e23899cd9fc6082c216bca1b5c311322 24236 lumina-xconfig_0.8.5.755-1_amd64.deb
 Files:
- 32030594704fd5cbeb07ab38c60a30af 1976 x11 optional lumina-desktop_0.8.5.755-1.dsc
+ 8335722915366df3e28560c5689b4477 1976 x11 optional lumina-desktop_0.8.5.755-1.dsc
  33a39510a1964baf12b32c14a6d80b41 23290628 x11 optional lumina-desktop_0.8.5.755.orig.tar.gz
- 33569e2c92ee6ce4ffb9455c4448254c 6652 x11 optional lumina-desktop_0.8.5.755-1.debian.tar.xz
- 957410a8645bdb28042d556fd36433b4 1112572 debug extra libluminautils-dbg_0.8.5.755-1_amd64.deb
- 88d9d7a4b08428bbeae9a13e101aea02 10674 libdevel optional libluminautils-dev_0.8.5.755-1_amd64.deb
- 229bd97e1206aea0283df9ecbd00a45b 112772 x11 optional libluminautils1_0.8.5.755-1_amd64.deb
- 36684c28f878bc8a454343a70af14d1e 154726 x11 optional lumina-config_0.8.5.755-1_amd64.deb
- 9d149aaebad9fde941704fd30cf91930 2196848 x11 optional lumina-data_0.8.5.755-1_all.deb
- e665a29638d99f1a4679c804352f1dc4 1013756 x11 optional lumina-desktop_0.8.5.755-1_amd64.deb
- ce0352cf36b02e582a663b086d9680a7 37278 x11 optional lumina-fileinfo_0.8.5.755-1_amd64.deb
- 2d12803081aacc2eea058de01c936978 110198 x11 optional lumina-fm_0.8.5.755-1_amd64.deb
- 22a4a0e1daef7916ccbfdc710498fd82 576084 x11 optional lumina-info_0.8.5.755-1_amd64.deb
- b67e9384c35dad69242a7fe50dd8671b 56062 x11 optional lumina-open_0.8.5.755-1_amd64.deb
- 4bd9528f84e9c90bff848af1a4d1b01d 19846 x11 optional lumina-screenshot_0.8.5.755-1_amd64.deb
- f11aae0f1a62c9fa81bc2af336a32a14 35544 x11 optional lumina-search_0.8.5.755-1_amd64.deb
- 4eacba5b52bcf3bc3342bd5168fa046a 24244 x11 optional lumina-xconfig_0.8.5.755-1_amd64.deb
+ ae0fb77a61f2988552f4768284d5e078 6660 x11 optional lumina-desktop_0.8.5.755-1.debian.tar.xz
+ d1de8a9719abc8a789609831c60a8cd7 1112634 debug extra libluminautils-dbg_0.8.5.755-1_amd64.deb
+ a4e75101eb396f6e1bc65719cd48cb50 10706 libdevel optional libluminautils-dev_0.8.5.755-1_amd64.deb
+ d14286b2ede10bdae55cb6ecb746573a 113188 x11 optional libluminautils1_0.8.5.755-1_amd64.deb
+ d0918009ae54ad17ef87183d71910657 154510 x11 optional lumina-config_0.8.5.755-1_amd64.deb
+ 8e2395a21473080b12ae946af68038a9 2196844 x11 optional lumina-data_0.8.5.755-1_all.deb
+ cfa9dc710068c5cab864ed559fc1d55b 1013562 x11 optional lumina-desktop_0.8.5.755-1_amd64.deb
+ 8fbce9fcfcd1b664a14ce01e423e4841 37324 x11 optional lumina-fileinfo_0.8.5.755-1_amd64.deb
+ 7f14bada93e28d96a9406c58789be191 110038 x11 optional lumina-fm_0.8.5.755-1_amd64.deb
+ fb435e070e29c31a99edd65d9a6ca66a 576114 x11 optional lumina-info_0.8.5.755-1_amd64.deb
+ 0c7bf4064eb6fd103c5067aae3e1d2c7 56122 x11 optional lumina-open_0.8.5.755-1_amd64.deb
+ bb95e60a017a8880e032592dc308d194 19840 x11 optional lumina-screenshot_0.8.5.755-1_amd64.deb
+ 62c37f12a9b3ef0c135b8adac0e0e7a1 35686 x11 optional lumina-search_0.8.5.755-1_amd64.deb
+ 779b5bf27b8bb850d08947e27133d695 24236 x11 optional lumina-xconfig_0.8.5.755-1_amd64.deb
