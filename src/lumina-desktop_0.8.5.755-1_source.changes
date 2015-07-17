@@ -1,0 +1,41 @@
+Format: 1.8
+Date: Wed, 15 Jul 2015 23:55:36 +0200
+Source: lumina-desktop
+Binary: lumina-desktop libluminautils1 libluminautils-dev libluminautils-dbg lumina-config lumina-fm lumina-open lumina-screenshot lumina-search lumina-info lumina-xconfig lumina-fileinfo lumina-data
+Architecture: source
+Version: 0.8.5.755-1
+Distribution: staging
+Urgency: medium
+Maintainer: Valentin OVD <vovd.tanglu@gmail.com>
+Changed-By: Valentin OVD <vovd.tanglu@gmail.com>
+Description:
+ libluminautils-dbg - Debugging symbols for lumina desktop environment
+ libluminautils-dev - Development files for lumina desktop environment
+ libluminautils1 - Library for the lumina desktop environment
+ lumina-config - Configuration utility for the lumina desktop environment
+ lumina-data - Data files for the lumina Desktop environment
+ lumina-desktop - Lightweight Qt5-based desktop environment
+ lumina-fileinfo - Desktop file editor for the lumina desktop environment
+ lumina-fm  - Filemanager for the lumina desktop environment
+ lumina-info - Basic information utility for Lumina
+ lumina-open - xdg-open like utilityfor the lumina desktop environment
+ lumina-screenshot - Screenshot utility for the lumina desktop environment
+ lumina-search - Search utility for the lumina desktop environment
+ lumina-xconfig - Display configuration tool for the lumina desktop environment
+Changes:
+ lumina-desktop (0.8.5.755-1) staging; urgency=medium
+ .
+   * New upstream release
+   * Debian package based upon the work of Christopher Roy Bratusek
+Checksums-Sha1:
+ 288c5cd427b87123a1f38369d5f861336401c7d5 1976 lumina-desktop_0.8.5.755-1.dsc
+ d26a90a38d0b4dd5231caafa84ae7efc00153208 23290628 lumina-desktop_0.8.5.755.orig.tar.gz
+ 832969c0cac5749efc2a6f28c89286932ef9c291 6752 lumina-desktop_0.8.5.755-1.debian.tar.xz
+Checksums-Sha256:
+ 6610dffb6684134556babb5b8fab32d288359c5043f3500c4b2e0d186a9f0fa3 1976 lumina-desktop_0.8.5.755-1.dsc
+ 6bce3d75378df8eb1b3d0c83611e9f5bbdfc5ddda49a6d73ab54c14c16cbe673 23290628 lumina-desktop_0.8.5.755.orig.tar.gz
+ 493fd1deb0332f4d7575d02f1bf1f25eef04a92ebdfbe505cb4d3fe861a18808 6752 lumina-desktop_0.8.5.755-1.debian.tar.xz
+Files:
+ 7dcbfe70da789bf25ee4267a72c8d014 1976 x11 optional lumina-desktop_0.8.5.755-1.dsc
+ 33a39510a1964baf12b32c14a6d80b41 23290628 x11 optional lumina-desktop_0.8.5.755.orig.tar.gz
+ f2cd05cb406523d6639fe904dcb90f0f 6752 x11 optional lumina-desktop_0.8.5.755-1.debian.tar.xz
