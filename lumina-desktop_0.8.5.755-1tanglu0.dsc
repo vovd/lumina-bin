@@ -2,7 +2,7 @@ Format: 3.0 (quilt)
 Source: lumina-desktop
 Binary: lumina-desktop, libluminautils1, libluminautils-dev, libluminautils-dbg, lumina-config, lumina-fm, lumina-open, lumina-screenshot, lumina-search, lumina-info, lumina-xconfig, lumina-fileinfo, lumina-data
 Architecture: any all
-Version: 0.8.5.755-1
+Version: 0.8.5.755-1tanglu0
 Maintainer: Valentin OVD <vovd.tanglu@gmail.com>
 Uploaders: Christopher Roy Bratusek <nano@jpberlin.de>
 Homepage: https://github.com/pcbsd/lumina
@@ -24,10 +24,10 @@ Package-List:
  lumina-xconfig deb x11 optional arch=any
 Checksums-Sha1:
  d26a90a38d0b4dd5231caafa84ae7efc00153208 23290628 lumina-desktop_0.8.5.755.orig.tar.gz
- d27f6afaaf939089fa2447d7c309cf845192b082 6660 lumina-desktop_0.8.5.755-1.debian.tar.xz
+ 98d8030f2d47e18df8efe1613d0cef108eedb23a 7160 lumina-desktop_0.8.5.755-1tanglu0.debian.tar.xz
 Checksums-Sha256:
  6bce3d75378df8eb1b3d0c83611e9f5bbdfc5ddda49a6d73ab54c14c16cbe673 23290628 lumina-desktop_0.8.5.755.orig.tar.gz
- 73e4685c893dd14578045a1006b9d19082267951a8cf1bf2e049d396e700c0a8 6660 lumina-desktop_0.8.5.755-1.debian.tar.xz
+ b343c4f81cf9aeaf2481f155b3470ca22c4e1f5eeee69cc2adc64b66c1a83aa7 7160 lumina-desktop_0.8.5.755-1tanglu0.debian.tar.xz
 Files:
  33a39510a1964baf12b32c14a6d80b41 23290628 lumina-desktop_0.8.5.755.orig.tar.gz
- ae0fb77a61f2988552f4768284d5e078 6660 lumina-desktop_0.8.5.755-1.debian.tar.xz
+ aa8e07ad1fd65d49b43a6ee1af98e63e 7160 lumina-desktop_0.8.5.755-1tanglu0.debian.tar.xz
