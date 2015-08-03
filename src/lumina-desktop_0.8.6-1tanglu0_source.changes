@@ -1,0 +1,40 @@
+Format: 1.8
+Date: Sat, 3 Aug 2015 22:10:40 +0200
+Source: lumina-desktop
+Binary: lumina-desktop libluminautils1 libluminautils-dev libluminautils-dbg lumina-config lumina-fm lumina-open lumina-screenshot lumina-search lumina-info lumina-xconfig lumina-fileinfo lumina-data
+Architecture: source
+Version: 0.8.6-1tanglu0
+Distribution: staging
+Urgency: low
+Maintainer: Valentin OVD <vovd.tanglu@gmail.com>
+Changed-By: Valentin OVD <vovd.tanglu@gmail.com>
+Description:
+ libluminautils-dbg - Debugging symbols for lumina desktop environment
+ libluminautils-dev - Development files for lumina desktop environment
+ libluminautils1 - Library for the lumina desktop environment
+ lumina-config - Configuration utility for the lumina desktop environment
+ lumina-data - Data files for the lumina Desktop environment
+ lumina-desktop - Lightweight Qt5-based desktop environment
+ lumina-fileinfo - Desktop file editor for the lumina desktop environment
+ lumina-fm  - Filemanager for the lumina desktop environment
+ lumina-info - Basic information utility for Lumina
+ lumina-open - xdg-open like utilityfor the lumina desktop environment
+ lumina-screenshot - Screenshot utility for the lumina desktop environment
+ lumina-search - Search utility for the lumina desktop environment
+ lumina-xconfig - Display configuration tool for the lumina desktop environment
+Changes:
+ lumina-desktop (0.8.6-1tanglu0) staging; urgency=low
+ .
+   * New upstream release
+Checksums-Sha1:
+ d8f9d73ecd9dc88e351c10dfcfb9244dc7607237 1976 lumina-desktop_0.8.6-1tanglu0.dsc
+ 59510a3b651411893b128a7ec9d5cd0607581d63 23300406 lumina-desktop_0.8.6.orig.tar.gz
+ 7ac077e47b8f716896f9f14af6ff1305cb97bd1c 7196 lumina-desktop_0.8.6-1tanglu0.debian.tar.xz
+Checksums-Sha256:
+ ab47745a253b610673371823f389a0841c48a904843c4441d66d13542ec1c099 1976 lumina-desktop_0.8.6-1tanglu0.dsc
+ bb4d3c848193034f17ed7aa91f69308ba237da101336ecb5d1eeb95c7a62ece2 23300406 lumina-desktop_0.8.6.orig.tar.gz
+ 0731822d6edd4b33a23fc0270213f341cc5adedc0ff2574a3c07b73cf3240421 7196 lumina-desktop_0.8.6-1tanglu0.debian.tar.xz
+Files:
+ 07ac8cf71a7dd0fa59a96c01a4baa806 1976 x11 optional lumina-desktop_0.8.6-1tanglu0.dsc
+ 8768c4f9d6b7f80ba7bac1488273d6e8 23300406 x11 optional lumina-desktop_0.8.6.orig.tar.gz
+ aecab0d2738606ca7b959332b8693ff7 7196 x11 optional lumina-desktop_0.8.6-1tanglu0.debian.tar.xz

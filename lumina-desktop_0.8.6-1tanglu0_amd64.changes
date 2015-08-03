@@ -1,0 +1,76 @@
+Format: 1.8
+Date: Sat, 3 Aug 2015 22:10:40 +0200
+Source: lumina-desktop
+Binary: lumina-desktop libluminautils1 libluminautils-dev libluminautils-dbg lumina-config lumina-fm lumina-open lumina-screenshot lumina-search lumina-info lumina-xconfig lumina-fileinfo lumina-data
+Architecture: source amd64 all
+Version: 0.8.6-1tanglu0
+Distribution: staging
+Urgency: low
+Maintainer: Valentin OVD <vovd.tanglu@gmail.com>
+Changed-By: Valentin OVD <vovd.tanglu@gmail.com>
+Description:
+ libluminautils-dbg - Debugging symbols for lumina desktop environment
+ libluminautils-dev - Development files for lumina desktop environment
+ libluminautils1 - Library for the lumina desktop environment
+ lumina-config - Configuration utility for the lumina desktop environment
+ lumina-data - Data files for the lumina Desktop environment
+ lumina-desktop - Lightweight Qt5-based desktop environment
+ lumina-fileinfo - Desktop file editor for the lumina desktop environment
+ lumina-fm  - Filemanager for the lumina desktop environment
+ lumina-info - Basic information utility for Lumina
+ lumina-open - xdg-open like utilityfor the lumina desktop environment
+ lumina-screenshot - Screenshot utility for the lumina desktop environment
+ lumina-search - Search utility for the lumina desktop environment
+ lumina-xconfig - Display configuration tool for the lumina desktop environment
+Changes:
+ lumina-desktop (0.8.6-1tanglu0) staging; urgency=low
+ .
+   * New upstream release
+Checksums-Sha1:
+ 01abf888ea5d29afd2da5695eb92ef1eff28b4d4 1976 lumina-desktop_0.8.6-1tanglu0.dsc
+ 2d72e0883af1337943b4243d30a7a81c23e5e02e 7196 lumina-desktop_0.8.6-1tanglu0.debian.tar.xz
+ 6b278bd445b618464eb8df8d8f142cc8cc7fecc9 1148986 libluminautils-dbg_0.8.6-1tanglu0_amd64.deb
+ f5193612496f4e8bbeea03db8a158bb4bea0a828 11126 libluminautils-dev_0.8.6-1tanglu0_amd64.deb
+ dd175079c05cbe5cda70239e32e2273c0aee249f 121136 libluminautils1_0.8.6-1tanglu0_amd64.deb
+ c2f7ecb60fcc54a67084ee390dbaa01623e012c0 158644 lumina-config_0.8.6-1tanglu0_amd64.deb
+ 3ac7c2e0f7e1e84d31f60e68eaa06951927788f4 2196908 lumina-data_0.8.6-1tanglu0_all.deb
+ 5bd3546c421179f7711aa25c65c727b753004892 1022582 lumina-desktop_0.8.6-1tanglu0_amd64.deb
+ ff5e7becc1bf654d5f4ce5af3ce09abb68b3d0a8 38092 lumina-fileinfo_0.8.6-1tanglu0_amd64.deb
+ 47d29bf60a4130168f3aa765522d185acaf96b96 110622 lumina-fm_0.8.6-1tanglu0_amd64.deb
+ c7f05b9aba0683edb2bb03f765a144aa8de1d249 576110 lumina-info_0.8.6-1tanglu0_amd64.deb
+ b0405bc6bd69b339b69b9806c2265fdb98401301 58108 lumina-open_0.8.6-1tanglu0_amd64.deb
+ c2a7c39b0702249d5c94afe02d348d58833221cc 19994 lumina-screenshot_0.8.6-1tanglu0_amd64.deb
+ 9d0030e453bf62bef9f03645420f2754dc3a1f9e 36724 lumina-search_0.8.6-1tanglu0_amd64.deb
+ 2c7a15aa5396c8382e4be095a8cf9941a06ef5b9 24316 lumina-xconfig_0.8.6-1tanglu0_amd64.deb
+Checksums-Sha256:
+ 6ea8cf5e7112beaa6009c4589247999f35295daedb985788d416e1214de04f41 1976 lumina-desktop_0.8.6-1tanglu0.dsc
+ 5032ba2946989ceade15ac6e0018b9c7e733efd97cffe4362315e76f542b09e1 7196 lumina-desktop_0.8.6-1tanglu0.debian.tar.xz
+ 62830ee5e882d5cfdcf1823ac4289de78f62cf714b27f6a215859998bdb0b732 1148986 libluminautils-dbg_0.8.6-1tanglu0_amd64.deb
+ 7fc7b820d1858ab331ece567dde932f54d69d2fa64ff98bc778802b1c655d1d1 11126 libluminautils-dev_0.8.6-1tanglu0_amd64.deb
+ 6a65005726460c8721c3279f3f10258cd7f9088e8a138e466ad6a556455e9708 121136 libluminautils1_0.8.6-1tanglu0_amd64.deb
+ 47b9acf9efd8f68d8b99b0cb4cdceda2e6803ab6970801f97635bc2e31131ea7 158644 lumina-config_0.8.6-1tanglu0_amd64.deb
+ d79cfbf380f283bae62de56e7e3128247df350fe140f304ecb4df50bc230daf0 2196908 lumina-data_0.8.6-1tanglu0_all.deb
+ 318e74afce48bc4f63a6d0f8ca60ca752113d2ff7ffd0fc20da1cadb53ea4f4e 1022582 lumina-desktop_0.8.6-1tanglu0_amd64.deb
+ 836c52faa52ea43d221f70ee22ac509e2bd84a991fb3d5e1b142c629d15e18f8 38092 lumina-fileinfo_0.8.6-1tanglu0_amd64.deb
+ 03eccd044b8efcc9577a8751b878a3f8f18623a10395dd4df1145fe71f5acc7d 110622 lumina-fm_0.8.6-1tanglu0_amd64.deb
+ f51e590220c0d2abaa74654cd63ee38ca981806f91d3411ccf57ca7fe66b446c 576110 lumina-info_0.8.6-1tanglu0_amd64.deb
+ 5bd1d065aa24fcb14c70c99720a1e501401661a574a2849bff738d5136a554e9 58108 lumina-open_0.8.6-1tanglu0_amd64.deb
+ 09c11e636c4bc39f37bf12f377dbb3dd8252967b4144ad9c9c0d4797a42b7464 19994 lumina-screenshot_0.8.6-1tanglu0_amd64.deb
+ d9cb435e46e84f9ab9d7a97c7ae7c2a307f96a344854ecfb27ffc259ac621e65 36724 lumina-search_0.8.6-1tanglu0_amd64.deb
+ 67b6625daa3253f5e6fdf237cba1a0e5c339103c592ae37ac3fc868296fa282b 24316 lumina-xconfig_0.8.6-1tanglu0_amd64.deb
+Files:
+ 20329a05e001302c2a790bb2e4a6440f 1976 x11 optional lumina-desktop_0.8.6-1tanglu0.dsc
+ 8db7eb34866ddd26ca057b17cccc61e9 7196 x11 optional lumina-desktop_0.8.6-1tanglu0.debian.tar.xz
+ f55a005389d6fb58470e225a1f83cd0e 1148986 debug extra libluminautils-dbg_0.8.6-1tanglu0_amd64.deb
+ 7e6416ddc9543d1ca46ebd20712fbb95 11126 libdevel optional libluminautils-dev_0.8.6-1tanglu0_amd64.deb
+ 3c123b3620848647bbd615ff9711f0bc 121136 x11 optional libluminautils1_0.8.6-1tanglu0_amd64.deb
+ 9e9a6705186ea644856c0658061f877b 158644 x11 optional lumina-config_0.8.6-1tanglu0_amd64.deb
+ 364f9199335d238c9ae0e0265c5e2308 2196908 x11 optional lumina-data_0.8.6-1tanglu0_all.deb
+ 42fe7b8d39dcaebbcbbd8ce7a31a8523 1022582 x11 optional lumina-desktop_0.8.6-1tanglu0_amd64.deb
+ 175a848d4a11515590367db18aca3a4e 38092 x11 optional lumina-fileinfo_0.8.6-1tanglu0_amd64.deb
+ 2df0413cac0bb48938d519e669ad46ed 110622 x11 optional lumina-fm_0.8.6-1tanglu0_amd64.deb
+ 2754609988b109f0341e1f758617a806 576110 x11 optional lumina-info_0.8.6-1tanglu0_amd64.deb
+ 03d6ac1ce8145f7181d7c508a31c6127 58108 x11 optional lumina-open_0.8.6-1tanglu0_amd64.deb
+ e00eee1a664a78b6e6d77d827cbaf809 19994 x11 optional lumina-screenshot_0.8.6-1tanglu0_amd64.deb
+ dd66226c791a5a84e867a5381501fe0d 36724 x11 optional lumina-search_0.8.6-1tanglu0_amd64.deb
+ d7325bca055a5f4af30ef5b7e5479399 24316 x11 optional lumina-xconfig_0.8.6-1tanglu0_amd64.deb
